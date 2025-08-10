@@ -22,7 +22,7 @@
   <!-- neon text -->
   <text x="50%" y="62" text-anchor="middle"
         font-family="Orbitron, 'Fira Code', monospace"
-        font-size="36" font-weight="700" letter-spacing="2"
+        font-size="20" font-weight="700" letter-spacing="2px"
         fill="url(#grad)" filter="url(#glow)">
     FRAMEWORKS &amp;  LIBRARIES
   </text>
@@ -30,7 +30,7 @@
   <!-- subtle inner stroke for readability -->
   <text x="50%" y="62" text-anchor="middle"
         font-family="Orbitron, 'Fira Code', monospace"
-        font-size="36" font-weight="700" letter-spacing="2"
+        font-size="20" font-weight="700" letter-spacing="2px"
         fill="none" stroke="rgba(0,0,0,0.6)" stroke-width="1">
     FRAMEWORKS &amp; LIBRARIES
   </text>
