@@ -1,29 +1,16 @@
-<!-- assets/headline-frameworks.svg -->
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="80" viewBox="0 0 900 80" role="img" aria-label="FRAMEWORKS & LIBRARIES">
-  <defs>
-    <linearGradient id="g2" x1="0" x2="1">
-      <stop offset="0" stop-color="#FF007F"/>
-      <stop offset="1" stop-color="#FF66B2"/>
-    </linearGradient>
-    <filter id="glow2" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="6" result="b" />
-      <feMerge>
-        <feMergeNode in="b"/>
-        <feMergeNode in="b"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-
-  <rect width="100%" height="100%" fill="rgba(0,0,0,0)"/>
-
-  <text x="50%" y="55%" text-anchor="middle" font-family="Orbitron, Fira Code, monospace"
-        font-size="30" font-weight="700" fill="url(#g2)" filter="url(#glow2)" style="letter-spacing:2px">
-    FRAMEWORKS &amp; LIBRARIES
-  </text>
-
-  <text x="50%" y="55%" text-anchor="middle" font-family="Orbitron, Fira Code, monospace"
-        font-size="30" font-weight="700" fill="none" stroke="rgba(0,0,0,0.6)" stroke-width="1" style="letter-spacing:2px">
-    FRAMEWORKS &amp; LIBRARIES
-  </text>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="120" viewBox="0 0 800 120">
+  <style>
+    .title {
+      fill: #00FFFF;
+      font-size: 48px;
+      font-family: 'Fira Code', monospace;
+      font-weight: bold;
+      text-anchor: middle;
+      filter: drop-shadow(0 0 6px #00FFFF)
+              drop-shadow(0 0 12px #00FFFF)
+              drop-shadow(0 0 18px #00FFFF);
+    }
+  </style>
+  <rect width="100%" height="100%" fill="black"/>
+  <text x="50%" y="50%" dy=".35em" class="title">FRAMEWORKS & LIBRARIES</text>
 </svg>
