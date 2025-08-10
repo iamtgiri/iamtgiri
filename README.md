@@ -24,9 +24,12 @@ I’m an **M.Tech student in Computer Science and Data Processing at IIT Kharagp
 
 --- 
 
+<!--
 <p align="center">
   <img src="assets/headline-languages.svg" alt="Languages" />
 </p>
+-->
+
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
