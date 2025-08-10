@@ -40,9 +40,12 @@ I’m an **M.Tech student in Computer Science and Data Processing at IIT Kharagp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="40" />
 </p>
 
+<!--
 <p align="center">
   <img src="assets/frameworks-neon.svg" alt="Frameworks & Libraries" />
 </p>
+-->
+
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
@@ -54,9 +57,13 @@ I’m an **M.Tech student in Computer Science and Data Processing at IIT Kharagp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" />
 </p>
 
+
+<!--
 <p align="center">
   <img src="assets/headline-tools.svg" alt="Tools" />
 </p>
+-->
+
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40" />
