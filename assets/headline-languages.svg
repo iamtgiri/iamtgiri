@@ -20,13 +20,13 @@
   <rect width="100%" height="100%" fill="rgba(0,0,0,0)"/>
 
   <text x="50%" y="55%" text-anchor="middle" font-family="Orbitron, Fira Code, monospace"
-        font-size="25" font-weight="700" fill="url(#g)" filter="url(#glow)" style="letter-spacing:4px">
+        font-size="20" font-weight="700" fill="url(#g)" filter="url(#glow)" style="letter-spacing:2px">
     LANGUAGES
   </text>
 
   <!-- subtle inner stroke for readability on very dark backgrounds -->
   <text x="50%" y="55%" text-anchor="middle" font-family="Orbitron, Fira Code, monospace"
-        font-size="25" font-weight="700" fill="none" stroke="rgba(0,0,0,0.6)" stroke-width="1" style="letter-spacing:4px">
+        font-size="20" font-weight="700" fill="none" stroke="rgba(0,0,0,0.6)" stroke-width="1" style="letter-spacing:2px">
     LANGUAGES
   </text>
 </svg>
