@@ -1,0 +1,37 @@
+<!-- Save as: assets/frameworks-neon.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120" role="img" aria-label="FRAMEWORKS &amp; LIBRARIES">
+  <defs>
+    <linearGradient id="grad" x1="0" x2="1">
+      <stop offset="0" stop-color="#FF007F"/>
+      <stop offset="1" stop-color="#FF66B2"/>
+    </linearGradient>
+
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- solid black background to blend with GitHub dark theme -->
+  <rect width="100%" height="100%" fill="#000000"/>
+
+  <!-- neon text -->
+  <text x="50%" y="62" text-anchor="middle"
+        font-family="Orbitron, 'Fira Code', monospace"
+        font-size="36" font-weight="700" letter-spacing="2"
+        fill="url(#grad)" filter="url(#glow)">
+    FRAMEWORKS &amp;  LIBRARIES
+  </text>
+
+  <!-- subtle inner stroke for readability -->
+  <text x="50%" y="62" text-anchor="middle"
+        font-family="Orbitron, 'Fira Code', monospace"
+        font-size="36" font-weight="700" letter-spacing="2"
+        fill="none" stroke="rgba(0,0,0,0.6)" stroke-width="1">
+    FRAMEWORKS &amp; LIBRARIES
+  </text>
+</svg>
