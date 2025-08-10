@@ -18,12 +18,12 @@
   <rect width="100%" height="100%" fill="rgba(0,0,0,0)"/>
 
   <text x="50%" y="55%" text-anchor="middle" font-family="Orbitron, Fira Code, monospace"
-        font-size="34" font-weight="700" fill="url(#g3)" filter="url(#glow3)" style="letter-spacing:4px">
+        font-size="20" font-weight="700" fill="url(#g3)" filter="url(#glow3)" style="letter-spacing:2px">
     TOOLS
   </text>
 
   <text x="50%" y="55%" text-anchor="middle" font-family="Orbitron, Fira Code, monospace"
-        font-size="34" font-weight="700" fill="none" stroke="rgba(0,0,0,0.6)" stroke-width="1" style="letter-spacing:4px">
+        font-size="20" font-weight="700" fill="none" stroke="rgba(0,0,0,0.6)" stroke-width="1" style="letter-spacing:2px">
     TOOLS
   </text>
 </svg>
