@@ -59,14 +59,16 @@ I’m an **M.Tech student in Computer Science and Data Processing at IIT Kharagp
 ---
 <p align="center">
   <a href="mailto:tanmoygiri333@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/iamtgiri"><img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/iamtgiri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
   <a href="https://github.com/iamtgiri"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 <p align="center">
   <a href="https://leetcode.com/u/iamtgiri/"><img src="https://img.shields.io/badge/LeetCode%20(P)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://leetcode.com/u/tanmoygiri/"><img src="https://img.shields.io/badge/LeetCode%20(C)-E04224?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://www.geeksforgeeks.org/user/iamtgiri/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/profile/iamtgiri"><img src="https://img.shields.io/badge/HackerRank-32c766?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
 </p>
+
 
 
 ---
