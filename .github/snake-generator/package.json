@@ -1,0 +1,12 @@
+{
+  "name": "github-snake-generator",
+  "version": "1.0.0",
+  "description": "Generate a contribution-grid-snake svg for README",
+  "main": "generate_snake.js",
+  "scripts": {
+    "start": "node generate_snake.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
