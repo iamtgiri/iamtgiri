@@ -2,12 +2,7 @@
   "name": "snake-generator",
   "version": "1.0.0",
   "type": "module",
-  "description": "Generate GitHub contribution snake",
-  "main": "generate_snake.js",
-  "scripts": {
-    "start": "node generate_snake.js"
-  },
   "dependencies": {
-    "node-fetch": "^3.3.2"
+    "node-fetch": "^3.0.0"
   }
 }
