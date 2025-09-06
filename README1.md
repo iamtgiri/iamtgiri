@@ -1,10 +1,14 @@
 <!-- Typing Animation Header -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamtgiri&label=Profile%20Views&color=0426BD&style=for-the-badge" />
+</p>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=F700F7&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Tanmoy+Giri;Computer+Science+%26+Data+Processing;M.Tech+%40+IIT+Kharagpur;Aspiring+Software+Engineer" alt="Typing SVG" />
 </h1>
 
-I’m an **M.Tech student in Computer Science and Data Processing at IIT Kharagpur**, with an **M.Sc. in Applied Mathematics**. Skilled in **C, C++, Python**, and familiar with **Golang**, I have hands-on experience in **Data Structures**, **Object-Oriented Programming**, and Python libraries such as **NumPy, Pandas, and Matplotlib**. I enjoy solving complex problems and actively seek opportunities to work on innovative, challenging projects while learning emerging technologies.  
+I’m an **M.Tech student in Computer Science and Data Processing at IIT Kharagpur**, with an **M.Sc. in Applied Mathematics**. Skilled in **C, C++, Python**, and familiar with **HTML, CSS, Golang**, I have hands-on experience in **Data Structures**, **Object-Oriented Programming** and Python libraries such as **NumPy, Pandas, and Matplotlib**. I enjoy solving complex problems and actively seek opportunities to work on innovative, challenging projects while learning emerging technologies.  
 
 ---
 
@@ -21,7 +25,9 @@ I’m an **M.Tech student in Computer Science and Data Processing at IIT Kharagp
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamtgiri&bg_color=000000&color=00D9FF&line=FF007F&point=00FF7F&area=true&hide_border=false" height="300" alt="Contribution Graph" />
 </div>
 
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamtgiri&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
 
 ---
 
@@ -71,8 +77,9 @@ I’m an **M.Tech student in Computer Science and Data Processing at IIT Kharagp
   <a href="https://www.hackerrank.com/profile/iamtgiri"><img src="https://img.shields.io/badge/HackerRank-32c766?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
 </p>
 
+
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamtgiri&label=Profile%20Views&color=0426BD&style=for-the-badge" />
-</p>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
