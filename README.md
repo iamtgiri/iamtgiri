@@ -8,21 +8,34 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=F700F7&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Tanmoy+Giri;Computer+Science+%26+Data+Processing;M.Tech+%40+IIT+Kharagpur;Aspiring+Software+Engineer" alt="Typing SVG" />
 </h1>
 
-I’m an **M.Tech student in Computer Science and Data Processing at IIT Kharagpur**, with an **M.Sc. in Applied Mathematics**. Skilled in **C, C++, Python**, and familiar with **HTML, CSS, Golang**, I have hands-on experience in **Data Structures**, **Object-Oriented Programming** and Python libraries such as **NumPy, Pandas, and Matplotlib**. I enjoy solving complex problems and actively seek opportunities to work on innovative, challenging projects while learning emerging technologies.  
+<p align="justify">
+I’m an <strong>M.Tech student in Computer Science and Data Processing at IIT Kharagpur</strong>, with an <strong>M.Sc. in Applied Mathematics</strong>. I build scalable systems, machine learning models and data-driven applications using <strong>C, C++, Python, SQL, HTML/CSS and Streamlit/Tkinter</strong>.  
+My recent work includes multi-source RAG pipelines, XGBoost-based property price models, and high-performance k-NN classifiers in C++.  
+I enjoy solving challenging problems, mentoring peers and exploring emerging technologies to create impactful software.
+</p>
 
 ---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iamtgiri&show_icons=true&theme=radical&hide_border=false" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamtgiri&layout=compact&theme=radical&hide_border=false" height="160" alt="Top Languages" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=iamtgiri&theme=radical&hide_border=false" height="160" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamtgiri&bg_color=000000&color=00D9FF&line=FF007F&point=00FF7F&area=true&hide_border=false" height="300" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamtgiri&layout=compact&theme=radical&hide_border=false" height="160" alt="Top Languages" />
+</div>
+
+<!--Snake-->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamtgiri/iamtgiri/main/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/iamtgiri/iamtgiri/main/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamtgiri&bg_color=000000&color=00D9FF&line=FF007F&point=00FF7F&area=true&hide_border=true" height="300" alt="Contribution Graph" />
 </div>
 
 <div align="center">
@@ -76,7 +89,6 @@ I’m an **M.Tech student in Computer Science and Data Processing at IIT Kharagp
   <a href="https://www.geeksforgeeks.org/user/iamtgiri/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
   <a href="https://www.hackerrank.com/profile/iamtgiri"><img src="https://img.shields.io/badge/HackerRank-32c766?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
 </p>
-
 
 ---
 
