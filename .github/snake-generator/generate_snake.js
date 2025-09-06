@@ -20,11 +20,13 @@ const url = `https://github.com/users/${owner}/contributions?format=svg`;
 async function main() {
   console.log("Fetching contribution SVG from:", url);
 
-  const res = await fetch(url, {
-    headers: {
-      "User-Agent": "github-snake-generator"
-    }
-  });
+const res = await fetch(url, {
+  headers: {
+    "User-Agent": "github-snake-generator",
+    "Accept": "image/svg+xml"   // 👈 this is the fix
+  }
+});
+
 
   if (!res.ok) {
     console.error("Failed to fetch contributions SVG:", res.status, res.statusText);
