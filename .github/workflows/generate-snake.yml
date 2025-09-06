@@ -4,11 +4,11 @@ on:
   push:
     branches: [ main, master ]
   schedule:
-    - cron: "0 3 * * *"   # daily at 03:00 UTC
+    - cron: "0 3 * * *" # run daily at 03:00 UTC
   workflow_dispatch:
 
 permissions:
-  contents: write   # allow pushing generated SVG back to repo
+  contents: write   # allows committing generated SVG
 
 jobs:
   build:
@@ -46,4 +46,3 @@ jobs:
             git push origin HEAD:${{ github.ref_name }}
           else
             echo "No changes to commit"
-          fi
