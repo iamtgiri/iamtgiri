@@ -22,10 +22,11 @@ async function main() {
 
 const res = await fetch(url, {
   headers: {
-    "User-Agent": "github-snake-generator",
-    "Accept": "image/svg+xml"   // 👈 this is the fix
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+    "Accept": "image/svg+xml,text/html;q=0.9,*/*;q=0.8"
   }
 });
+
 
 
   if (!res.ok) {
