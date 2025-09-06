@@ -1,49 +1,47 @@
 /**
  * generate_snake.js
  *
- * Fetches the GitHub contributions SVG for the repository owner and
- * wraps it with a lightweight animated "snake" overlay.
+ * Fetches the GitHub contributions HTML, extracts the SVG contribution grid,
+ * and injects a lightweight "snake" overlay animation.
  *
  * Output: writes file to repo-root/output/github-contribution-grid-snake.svg
- *
- * Environment variables:
- *  - GITHUB_USER  (set by the Action to the repo owner)
  */
 
 import fs from "fs";
 import path from "path";
 import fetch from "node-fetch";
 
-const owner = process.env.GITHUB_USER || process.env.USER || "iamtgiri"; // fallback
-const url = `https://github.com/users/${owner}/contributions?format=svg`;
+const owner = process.env.GITHUB_USER || process.env.USER || "iamtgiri";
+const url = `https://github.com/users/${owner}/contributions`;
 
 async function main() {
-  console.log("Fetching contribution SVG from:", url);
+  console.log("Fetching contribution page from:", url);
 
-const res = await fetch(url, {
-  headers: {
-    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
-    "Accept": "image/svg+xml,text/html;q=0.9,*/*;q=0.8"
-  }
-});
-
-
+  const res = await fetch(url, {
+    headers: {
+      "User-Agent":
+        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+      "Accept": "text/html"
+    }
+  });
 
   if (!res.ok) {
-    console.error("Failed to fetch contributions SVG:", res.status, res.statusText);
+    console.error("Failed to fetch contributions page:", res.status, res.statusText);
     process.exit(1);
   }
 
-  const svgBody = await res.text();
+  const html = await res.text();
 
-  // Wrap/augment the SVG with a simple animated overlay.
-  // We insert an extra <g> with a translucent rectangle that moves across the grid to simulate a snake.
-  // The injected CSS is inline and should be allowed in the SVG.
+  // Extract SVG contribution graph from HTML
+  const match = html.match(/<svg[\s\S]*<\/svg>/);
+  if (!match) {
+    console.error("Could not find SVG in contributions page.");
+    process.exit(1);
+  }
 
-  // Build final SVG string.
-  // Some GitHub contribution SVGs already include an <svg ...> root. We'll inject our overlay inside it.
-  // A simple approach: find the opening <svg ...> tag and append our <defs>/<style>/<g> right after it.
+  const svgBody = match[0];
 
+  // Snake overlay
   const overlay = `
   <defs>
     <style type="text/css"><![CDATA[
@@ -58,24 +56,17 @@ const res = await fetch(url, {
   </defs>
 
   <g transform="translate(0,0)" id="snake-overlay">
-    <!-- moving translucent bar to simulate a snake -->
     <rect class="snake-rect snake-anim" x="-200" y="0" width="1200" height="160" rx="6" ry="6" style="transform-origin: 0 0;" />
   </g>
   `;
 
-  // locate index after the first <svg...> tag close '>'
+  // Insert overlay right after opening <svg>
   const svgOpenTagEnd = svgBody.indexOf(">");
-
-  if (svgOpenTagEnd === -1) {
-    console.error("Couldn't parse SVG content.");
-    process.exit(1);
-  }
-
   const finalSvg = `${svgBody.slice(0, svgOpenTagEnd + 1)}
 ${overlay}
 ${svgBody.slice(svgOpenTagEnd + 1)}`;
 
-  // ensure output dir exists at repo root
+  // Ensure output dir exists
   const outDir = path.resolve(process.cwd(), "../../output");
   if (!fs.existsSync(outDir)) fs.mkdirSync(outDir, { recursive: true });
 
@@ -85,7 +76,7 @@ ${svgBody.slice(svgOpenTagEnd + 1)}`;
   console.log("Wrote:", outFile);
 }
 
-main().catch(err => {
+main().catch((err) => {
   console.error(err);
   process.exit(1);
 });
