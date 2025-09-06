@@ -1,7 +1,8 @@
 {
-  "name": "github-snake-generator",
+  "name": "snake-generator",
   "version": "1.0.0",
-  "description": "Generate a contribution-grid-snake svg for README",
+  "type": "module",
+  "description": "Generate GitHub contribution snake",
   "main": "generate_snake.js",
   "scripts": {
     "start": "node generate_snake.js"
