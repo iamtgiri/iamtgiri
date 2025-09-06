@@ -4,37 +4,25 @@ on:
   push:
     branches: [ main, master ]
   schedule:
-    - cron: "0 3 * * *" # run daily at 03:00 UTC
+    - cron: "0 3 * * *" # daily at 03:00 UTC
   workflow_dispatch:
 
 permissions:
-  contents: write   # allows committing generated SVG
+  contents: write  # allows committing generated SVG
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
+
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
         with:
-          persist-credentials: true
-          fetch-depth: 0
-
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: "18"
-
-      - name: Install dependencies
-        run: npm install
-        working-directory: ./.github/snake-generator
-
-      - name: Generate contribution snake SVG
-        env:
-          GITHUB_USER: ${{ github.repository_owner }}
-        run: node generate_snake.js
-        working-directory: ./.github/snake-generator
+          github_user_name: ${{ github.repository_owner }}
+          outputs: ./output/github-contribution-grid-snake.svg
 
       - name: Commit generated SVG (if changed)
         run: |
