@@ -15,7 +15,7 @@ import path from "path";
 import fetch from "node-fetch";
 
 const owner = process.env.GITHUB_USER || process.env.USER || "iamtgiri"; // fallback
-const url = `https://github.com/users/${owner}/contributions`;
+const url = `https://github.com/users/${owner}/contributions?format=svg`;
 
 async function main() {
   console.log("Fetching contribution SVG from:", url);
