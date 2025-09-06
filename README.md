@@ -9,16 +9,16 @@ I’m an **M.Tech student in Computer Science and Data Processing at IIT Kharagp
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamtgiri&show_icons=true&theme=radical&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamtgiri&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamtgiri&show_icons=true&theme=radical&hide_border=false" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamtgiri&layout=compact&theme=radical&hide_border=false" height="160" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=iamtgiri&theme=radical&hide_border=true" height="160" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=iamtgiri&theme=radical&hide_border=false" height="160" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamtgiri&bg_color=000000&color=00D9FF&line=FF007F&point=00FF7F&area=true&hide_border=true" height="300" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamtgiri&bg_color=000000&color=00D9FF&line=FF007F&point=00FF7F&area=true&hide_border=false" height="300" alt="Contribution Graph" />
 </div>
 
 
