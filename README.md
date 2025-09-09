@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=iamtgiri&label=Profile%20Views&color=0426BD&style=for-the-badge" />
 </p>
 
-
+<h2> </h2> 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=F700F7&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Tanmoy+Giri;Computer+Science+%26+Data+Processing;M.Tech+%40+IIT+Kharagpur;Aspiring+Software+Engineer" alt="Typing SVG" />
 </h1>
@@ -14,36 +14,7 @@ My recent work includes multi-source RAG pipelines, XGBoost-based property price
 I enjoy solving challenging problems, mentoring peers and exploring emerging technologies to create impactful software.
 </p>
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamtgiri&show_icons=true&theme=radical&hide_border=false" height="160" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=iamtgiri&theme=radical&hide_border=false" height="160" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamtgiri&layout=compact&theme=radical&hide_border=false" height="160" alt="Top Languages" />
-</div>
-
-<!--Snake-->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamtgiri/iamtgiri/main/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/iamtgiri/iamtgiri/main/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamtgiri&bg_color=000000&color=00D9FF&line=FF007F&point=00FF7F&area=true&hide_border=true" height="300" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamtgiri&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
+<h2> </h2>
 
 <h3 align="center"><b><samp>Languages</samp></b></h3>
 <p align="center">
@@ -52,7 +23,7 @@ I enjoy solving challenging problems, mentoring peers and exploring emerging tec
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
 </p>
 
 <h3 align="center"><b><samp>Frameworks & Libraries</samp></b></h3>
@@ -80,17 +51,52 @@ I enjoy solving challenging problems, mentoring peers and exploring emerging tec
 <h3 align="center"><b><samp>Connect with Me</samp></b></h3>
 <p align="center">
   <a href="mailto:tanmoygiri333@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/iamtgiri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/iamtgiri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/iamtgiri"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://iamtgiri.github.io"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://sites.google.com/view/iamtgiri"><img src="https://img.shields.io/badge/Google%20Site-34A853?style=for-the-badge&logo=google&logoColor=white" /></a>
 </p>
 <p align="center">
-  <a href="https://leetcode.com/u/iamtgiri/"><img src="https://img.shields.io/badge/LeetCode%20(P)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://leetcode.com/u/tanmoygiri/"><img src="https://img.shields.io/badge/LeetCode%20(C)-E04224?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://leetcode.com/u/iamtgiri/"><img src="https://img.shields.io/badge/LeetCode%20(P)-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/tanmoygiri/"><img src="https://img.shields.io/badge/LeetCode%20(C)-E04224?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   <a href="https://www.geeksforgeeks.org/user/iamtgiri/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/profile/iamtgiri"><img src="https://img.shields.io/badge/HackerRank-32c766?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
+  <a href="https://www.hackerrank.com/profile/iamtgiri"><img src="https://img.shields.io/badge/HackerRank-32c766?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 </p>
 
----
+
+<h2> </h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamtgiri&show_icons=true&theme=radical&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=iamtgiri&theme=radical&hide_border=true" height="160" alt="GitHub Streak" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamtgiri&theme=radical" height="160" alt="Github-Profile-Summery" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamtgiri&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
+</div>
+
+
+
+<!--Snake-->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamtgiri/iamtgiri/main/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/iamtgiri/iamtgiri/main/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<!--
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamtgiri&bg_color=000000&color=00D9FF&line=FF007F&point=00FF7F&area=true&hide_border=true" height="300" alt="Contribution Graph" />
+</div>
+-->
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamtgiri&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+<h2> </h2>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
