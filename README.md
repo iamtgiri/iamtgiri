@@ -86,11 +86,11 @@ I enjoy solving challenging problems, mentoring peers and exploring emerging tec
   </picture>
 </div>
 
-<!--
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamtgiri&bg_color=000000&color=00D9FF&line=FF007F&point=00FF7F&area=true&hide_border=true" height="300" alt="Contribution Graph" />
 </div>
--->
+
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=iamtgiri&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
