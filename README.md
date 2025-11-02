@@ -57,7 +57,7 @@ I enjoy solving challenging problems, mentoring peers and exploring emerging tec
   <a href="https://sites.google.com/view/iamtgiri"><img src="https://img.shields.io/badge/Google%20Site-34A853?style=for-the-badge&logo=google&logoColor=white" /></a>
 </p>
 <p align="center">
-  <a href="https://leetcode.com/u/iamtgiri/"><img src="https://img.shields.io/badge/LeetCode%20(P)-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+ <!-- <a href="https://leetcode.com/u/iamtgiri/"><img src="https://img.shields.io/badge/LeetCode%20(P)-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a> -->
   <a href="https://leetcode.com/u/tanmoygiri/"><img src="https://img.shields.io/badge/LeetCode%20(C)-E04224?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   <a href="https://www.geeksforgeeks.org/user/iamtgiri/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
   <a href="https://www.hackerrank.com/profile/iamtgiri"><img src="https://img.shields.io/badge/HackerRank-32c766?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
