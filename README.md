@@ -22,7 +22,7 @@ I use GitHub as a **learning archive** and a place to document my growth as an e
 ### ■ Technical Focus
 **Primary languages**
 - C++ (STL, algorithmic problem-solving)
-- Python (scripting, data handling, prototyping)
+- Python (standard library, scripting, data analysis)
 
 **Comfortable with**
 - Linux, Git
