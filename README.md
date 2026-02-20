@@ -49,12 +49,11 @@ I use GitHub as a **learning archive** and a place to document my growth as an e
   <!-- <a href="https://www.linkedin.com/in/iamtgiri">LinkedIn</a> • -->
   <!-- <a href="mailto:tanmoygiri333@gmail.com">Email</a> • -->
   <!-- <a href="https://iamtgiri.github.io">Portfolio</a> -->
-  <a href="mailto:tanmoygiri333@gmail.com"><img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/iamtgiri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://iamtgiri.github.io"><img src="https://img.shields.io/badge/Website-181717?style=for-the-badge&logo=github&logoColor=white" alt="Personal Website">
+  <a href="mailto:tanmoygiri333@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/iamtgiri"> <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
+  <a href="https://iamtgiri.github.io"><img src="https://img.shields.io/badge/Portfolio-%23121011.svg?logo=github&logoColor=white" alt="Personal Website"></a>
+  <!-- <a href="https://www.linkedin.com/in/iamtgiri"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>-->
   <!-- <a href="https://iamtgiri.github.io"><img src="https://img.shields.io/badge/Website-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" /></a> -->
-</a>
-
 </p>
 
   <!-- 
