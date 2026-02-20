@@ -57,8 +57,15 @@ I use GitHub as a **learning archive** and a place to document my growth as an e
 
 </p>
 
+  <!-- 
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iamtgiri&show_icons=true&theme=radical&hide_border=true" height="160"/>
 </p>
+-->
+<h2> </h2>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
