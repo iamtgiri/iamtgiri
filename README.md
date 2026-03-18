@@ -1,70 +1,74 @@
-<h1 align="center">Hi, I’m Tanmoy Giri</h1>
+<h1 align="center">Tanmoy Giri</h1>
 
 <p align="center">
-M.Tech (Computer Science & Data Processing), IIT Kharagpur <br/>
-Background in Applied Mathematics • C++ / Python • Systems-oriented learner
+  M.Tech Computer Science & Data Processing · IIT Kharagpur<br/>
+  C++ · Systems Programming
 </p>
 
----
-
-### ■ About Me
-I am an M.Tech student in **Computer Science and Data Processing at IIT Kharagpur**, with a prior background in **Applied Mathematics**. I primarily work with **C++ and Python**, and I enjoy solving algorithmic problems and writing performance-conscious code.
-
-Recently, I’ve been focusing on:
-- strengthening **modern C++** fundamentals
-- learning **system design** concepts from a practical perspective
-- building small, focused projects to understand real-world software trade-offs
-
-I use GitHub as a **learning archive** and a place to document my growth as an engineer.
-
----
-
-### ■ Technical Focus
-**Primary languages**
-- C++ (STL, algorithmic problem-solving)
-- Python (standard library, scripting, data analysis)
-
-**Comfortable with**
-- Linux, Git
-- Basic ML & data analysis tooling
-- Writing clean, readable, well-documented code
-
-**Currently exploring**
-- System design fundamentals
-- Performance optimization
-- Large-scale codebase practices relevant to industry software
-
----
-
-### ■ What you’ll find here
-- Algorithmic and DSA practice (mostly C++)
-- Learning-driven projects and experiments
-- Coursework and exploratory implementations
-- Incremental improvements rather than “perfect” projects
-
----
-
-### ■ Connect
-<p>
-  <!-- <a href="https://www.linkedin.com/in/iamtgiri">LinkedIn</a> • -->
-  <!-- <a href="mailto:tanmoygiri333@gmail.com">Email</a> • -->
-  <!-- <a href="https://iamtgiri.github.io">Portfolio</a> -->
+<p align="center">
   <a href="mailto:tanmoygiri333@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/iamtgiri"> <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
   <a href="https://iamtgiri.github.io"><img src="https://img.shields.io/badge/Portfolio-%23121011.svg?logo=github&logoColor=white" alt="Personal Website"></a>
-  <!-- <a href="https://www.linkedin.com/in/iamtgiri"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>-->
-  <!-- <a href="https://iamtgiri.github.io"><img src="https://img.shields.io/badge/Website-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" /></a> -->
 </p>
 
-  <!-- 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamtgiri&show_icons=true&theme=radical&hide_border=true" height="160"/>
-</p>
--->
-<h2> </h2>
+### ■ About
+
+I am an M.Tech student at **IIT Kharagpur** (Mathematics department) with a background in Applied Mathematics. My primary language is **C++** and I am moving into the EDA industry after graduation.
+
+I care about writing performance-conscious, well-structured code and understanding the systems I work with at a low level.
+
+---
+
+### ■ Technical Profile
+
+**Primary**
+- C++17/20 — STL, memory management, performance benchmarking, system design patterns
+- Python — ML tooling, automation, data pipelines, LLM application development
+
+**Tools & Ecosystem**
+- CMake, Google Benchmark, OpenMP
+- Git, Linux (WSL2)
+- LangChain, Streamlit, FastAPI, Flask
+
+**Domain Interests**
+- EDA tooling and hardware verification
+- Memory allocator design and performance profiling
+- Systems-level benchmarking
+
+---
+
+### ■ Selected Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [MemEnergyBench](https://github.com/iamtgiri/MemEnergyBench) | MTech thesis — dual-measurement framework for memory allocation latency + CPU energy via Intel RAPL. Custom slab allocator vs. system malloc. | C++, Google Benchmark, Intel Power Gadget |
+| [knncpp](https://github.com/iamtgiri/knncpp) | High-performance k-NN pipeline with brute-force and KD-Tree backends. ~55× speedup via OpenMP parallelism on Fashion MNIST. | C++17, OpenMP, CMake |
+| [cppjoules-windows](https://github.com/iamtgiri/cppjoules-windows) | Windows simplification of CPPJoules — 7 files → 2, real bug fixes, plug-and-play with Visual Studio. | C++, Intel Power Gadget SDK |
+| [MiRAG](https://github.com/iamtgiri/MiRAG) | Multi-input RAG system for QA and summarization over web pages, PDFs, YouTube transcripts, and custom text. | Python, LangChain, Gemini, FAISS, Streamlit |
+| [FutureMe](https://iamtgiri.github.io/futureme/) | Zero-cost time capsule email app — write a letter, schedule delivery months or years ahead. Live. | Supabase, Resend, GitHub Actions, GitHub Pages |
+| [URL-Shortener](https://github.com/iamtgiri/URL-Shortener) | FastAPI + MySQL URL shortener with Base62 encoding, click tracking, and Flask frontend. | Python, FastAPI, MySQL, Flask |
+
+---
+
+### ■ Open Source
+
+- **[Catch2 PR #3079](https://github.com/catchorg/Catch2/pull/3079)** — Submitted a fix for Clang 22 `-pedantic-errors` compatibility with `-Wc2y-extensions` pragma. Currently under review.
+
+---
+
+### ■ Currently
+
+- Completing M.Tech final semester at IIT Kharagpur
+- Looking for open source C++ contribution opportunities
+- Transitioning from academics to industry
+
+---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamtgiri/iamtgiri/main/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/iamtgiri/iamtgiri/main/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
