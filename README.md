@@ -47,9 +47,8 @@ I care about writing performance-conscious, well-structured code and understandi
 | [knncpp](https://github.com/iamtgiri/knncpp) | High-performance k-NN pipeline with brute-force and KD-Tree backends. ~55× speedup via OpenMP parallelism on Fashion MNIST. | C++17, OpenMP, CMake |
 | [cppjoules-windows](https://github.com/iamtgiri/cppjoules-windows) | Windows simplification of CPPJoules — 7 files → 2, real bug fixes, plug-and-play with Visual Studio. | C++, Intel Power Gadget SDK |
 | [MiRAG](https://github.com/iamtgiri/MiRAG) | Multi-input RAG system for QA and summarization over web pages, PDFs, YouTube transcripts, and custom text. | Python, LangChain, Gemini, FAISS, Streamlit |
-| [FutureMe](https://iamtgiri.github.io/futureme/) | Zero-cost time capsule email app — write a letter, schedule delivery months or years ahead. Live. | Supabase, Resend, GitHub Actions, GitHub Pages |
 | [URL-Shortener](https://github.com/iamtgiri/URL-Shortener) | FastAPI + MySQL URL shortener with Base62 encoding, click tracking, and Flask frontend. | Python, FastAPI, MySQL, Flask |
-
+<!-- | [FutureMe](https://iamtgiri.github.io/futureme/) | Zero-cost time capsule email app — write a letter, schedule delivery months or years ahead. Live. | Supabase, Resend, GitHub Actions, GitHub Pages | -->
 ---
 <!--
 ### ■ Open Source
