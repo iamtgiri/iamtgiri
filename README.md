@@ -42,10 +42,10 @@ I care about writing performance-conscious, well-structured code and understandi
 ### ■ Selected Projects
 
 | Project | Description | Stack |
-|---|---|---|
-| [MemEnergyBench (private)](https://github.com/iamtgiri/MemEnergyBench) | MTech thesis — dual-measurement framework for memory allocation latency + CPU energy via Intel RAPL. Custom slab allocator vs. system malloc. | C++, Google Benchmark, Intel Power Gadget |
+|:---:|:---|:---|
+| [Memory-Energy-Benchmark](https://github.com/iamtgiri/Memory-Energy-Benchmark) | MTech Final Semester Project: dual-measurement framework for memory allocation latency + CPU energy via Intel RAPL. 4 Allocators and 5 Workloads | C++, Google Benchmark, Intel Power Gadget |
 | [knncpp](https://github.com/iamtgiri/knncpp) | High-performance k-NN pipeline with brute-force and KD-Tree backends. ~55× speedup via OpenMP parallelism on Fashion MNIST. | C++17, OpenMP, CMake |
-| [cppjoules-windows](https://github.com/iamtgiri/cppjoules-windows) | Windows simplification of CPPJoules — 7 files → 2, real bug fixes, plug-and-play with Visual Studio. | C++, Intel Power Gadget SDK |
+| [cppjoules-windows](https://github.com/iamtgiri/cppjoules-windows) | Windows simplification of CPPJoules, plug-and-play with Visual Studio. | C++, Intel Power Gadget SDK |
 | [MiRAG](https://github.com/iamtgiri/MiRAG) | Multi-input RAG system for QA and summarization over web pages, PDFs, YouTube transcripts, and custom text. | Python, LangChain, Gemini, FAISS, Streamlit |
 | [URL-Shortener](https://github.com/iamtgiri/URL-Shortener) | FastAPI + MySQL URL shortener with Base62 encoding, click tracking, and Flask frontend. | Python, FastAPI, MySQL, Flask |
 <!-- | [FutureMe](https://iamtgiri.github.io/futureme/) | Zero-cost time capsule email app — write a letter, schedule delivery months or years ahead. Live. | Supabase, Resend, GitHub Actions, GitHub Pages | -->
