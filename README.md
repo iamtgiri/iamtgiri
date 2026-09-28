@@ -8,4 +8,4 @@ master's thesis measuring how much energy, different memory allocators burn
 under Intel RAPL, which is a strange thing to become interested in but here
 we are.
 
-[email](mailto:tanmoygiri333@gmail.com) · [linkedin](https://www.linkedin.com/in/iamtgiri) · [site](https://iamtgiri.github.io)
+[linkedin](https://www.linkedin.com/in/iamtgiri) · [site](https://iamtgiri.github.io)
